@@ -11,7 +11,7 @@
 ## Description
 Simple app for taking and saving notes.  Uses node.js and express and has a fully functional front and backend. Notes are saved via the save button, a note can be discarded and written again with the + button, and deleted with the trash  button.  
 ## Installation
-Download the full github repository and run the server using the apps express.js backend on your local machine, or simply use the deployed heroku link. 
+Download the full github repository and run the server using the apps express.js backend on your local machine, or simply use the deployed heroku link.  https://shielded-sea-24226.herokuapp.com/notes
 ## Usage
 ![notes](notetaker.png)
 ## Contribution
